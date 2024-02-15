@@ -5,7 +5,8 @@ Team TBD - Group 3
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
 Data Visualizations:
-
+![Percentage of Average Car Price to Average Income (2009-2018)](https://github.com/tjodonoghue/Project-One/assets/153467835/0dafccdc-dd21-494c-a1c4-212e0aef9f81)
+![Trend of Average Car Prices and Average Income (2009-2018)](https://github.com/tjodonoghue/Project-One/assets/153467835/29ce4df6-34c5-4ba4-937a-ca1f23d985b7)
 ![Interest_vs_Amounts](https://github.com/tjodonoghue/Project-1/assets/147662348/c6057802-3cf1-47dc-b078-c37e1f7c4900)
 ![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/7530bda0-ba5b-45b9-8c7a-84b1044950b0)
 
