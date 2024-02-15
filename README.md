@@ -5,10 +5,15 @@ Team TBD - Group 3
 Vroom, Boom, or Doom: A data analysis exploring if 2018 was a good time to buy a used car.
 
 Data Visualizations:
-
 ![Interest_vs_Amounts](https://github.com/tjodonoghue/Project-1/assets/147662348/c6057802-3cf1-47dc-b078-c37e1f7c4900)
 ![Brands_Below_Average](https://github.com/tjodonoghue/Project-1/assets/147662348/7530bda0-ba5b-45b9-8c7a-84b1044950b0)
-
+![Percentage of Average Car Price to Average Income (2009-2018)](https://github.com/tjodonoghue/Project-One/assets/153467835/0dafccdc-dd21-494c-a1c4-212e0aef9f81)
+![Trend of Average Car Prices and Average Income (2009-2018)](https://github.com/tjodonoghue/Project-One/assets/153467835/29ce4df6-34c5-4ba4-937a-ca1f23d985b7)
+![Project_1_heat_map](https://github.com/tjodonoghue/Project-One/assets/153467835/aa65fa4d-810f-4dfb-ba8c-6b02b0224376)
+![Bar_chart_state](https://github.com/tjodonoghue/Project-One/assets/153467835/a47066c8-3f15-4b5e-8d1b-9e87a0f40cc4)
+![Price v Mileage](https://github.com/tjodonoghue/Project-One/assets/153467835/8f328ab2-c524-4f5b-ac3f-4e415dfade01)
+![Price Over the Years](https://github.com/tjodonoghue/Project-One/assets/153467835/7b59605f-1921-414a-bce1-b39313d3d661)
+![PCI Price Over the Years](https://github.com/tjodonoghue/Project-One/assets/153467835/1cf36717-425b-4b46-8615-e155a0ca48d7)
 #
 
 Research Question:
